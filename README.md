@@ -6,8 +6,9 @@ Choose Assets > Import Package > to import both types of package.
 ![image](https://user-images.githubusercontent.com/59277896/206382106-8d38a0bd-8d6a-4461-a447-b336614c5c9e.png)
 ![image](https://user-images.githubusercontent.com/59277896/206383355-8822d588-35eb-416b-98ab-e1f75069ca12.png)
 
- choose all > import 
- ![image](https://user-images.githubusercontent.com/59277896/206383667-f1ebaee8-be8b-461d-8cab-6734f17cddbd.png)
+choose all > import 
+
+![image](https://user-images.githubusercontent.com/59277896/206383667-f1ebaee8-be8b-461d-8cab-6734f17cddbd.png)
 
 Choose Scenes 
 
